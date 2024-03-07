@@ -14,6 +14,11 @@
 
 ### Scale
 
+#### Next steps
+- [x] Create Pillers structure
+- [x] Add image
+- [ ] Create Topic texts
+
 ## Code
 
 ```javascript
