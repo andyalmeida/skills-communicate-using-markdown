@@ -13,3 +13,11 @@
 ### Security
 
 ### Scale
+
+## Code
+
+```javascript
+const val1 = 10;
+const val2 = 20;
+const sum = val1 + val2;
+```
