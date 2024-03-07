@@ -1,15 +1,15 @@
 # GitHub
 
-## Entities
+## Pillars
 
-### Accounts
+![GitHub Pillars](https://learn.microsoft.com/en-us/training/github/introduction-to-github/media/github-enterprise-platform.png)
 
-#### Personal Free
+### AI
 
-#### personal Pro
+### Collaboration
 
-#### Organization Free
+### Productivity
 
-#### Organization Teams
+### Security
 
-#### Enterprise
+### Scale
